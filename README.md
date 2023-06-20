@@ -1,45 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Codeforces
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0014032  | Guilherme Rogelin Vial |
+| 19/0033088  | Lucas Braun Vieira Xavier |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Exercícios do Codeforces resolvidos que utilizam algoritmos Dividir e Conquistar.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+[559B - Equivalent Strings](https://codeforces.com/problemset/problem/559/B)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![559B](img/559B.png)
+*[Link para submissão](https://codeforces.com/problemset/submission/559/210479130)*
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[768B - Code For 1](https://codeforces.com/problemset/problem/768/B)
 
+![768B](img/768B.png)
+*[Link para submissão](https://codeforces.com/problemset/submission/768/210488797)*
 
+[1461D - Divide and Summarize](https://codeforces.com/problemset/problem/1461/D)
 
+![1461D](img/1461D.png)
+*[Link para submissão](https://codeforces.com/problemset/submission/1461/210188790)*
 
+[1676H2 - Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
+
+![1676H2](img/1676H2.png)
+*[Link para submissão](https://codeforces.com/contest/1676/submission/210183815)*
+
+## Instalação e execução
+
+Basta compilar os códigos em C++ e rodar.
