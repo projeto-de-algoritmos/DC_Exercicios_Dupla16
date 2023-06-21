@@ -8,6 +8,8 @@
 | 19/0014032  | Guilherme Rogelin Vial |
 | 19/0033088  | Lucas Braun Vieira Xavier |
 
+## [Link pro Vídeo](https://drive.google.com/file/d/1eit-XIFLAHtOHFlLR0pxY_TDMRAx82oX/view?usp=sharing)
+
 ## Sobre
 
 Exercícios do Codeforces resolvidos que utilizam algoritmos Dividir e Conquistar.
